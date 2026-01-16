@@ -1,6 +1,6 @@
 ## # Hi, I'm Jimena 👋
 
-📍 **Buenos Aires, Argentina** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
+📍 **Buenos Aires, Argentina** |  | 
 
 I am a physician turned Medical Data Scientist with a strong focus on women’s health.
 
