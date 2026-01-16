@@ -1,6 +1,6 @@
-## # Hi, I'm Jimena 👋
+##  Hi, I'm Jimena 👋
 
-📍 **Buenos Aires, Argentina** |  | 
+📍 **Buenos Aires, Argentina** |  
 
 I am a physician turned Medical Data Scientist with a strong focus on women’s health.
 
@@ -11,21 +11,16 @@ impacts decisions, outcomes, and patients’ lives.
 I invite you to explore my projects, which reflect my way of interpreting numbers
 within their proper healthcare and clinical context.
 
-## Current Projects
+## Selected Projects
 
-### Tools
-
-
+### 
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+- ⚡ Fun fact: 
+
