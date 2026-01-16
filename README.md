@@ -1,9 +1,24 @@
-## Hi there 👋
+## # Hi, I'm Jimena 👋
 
-<!--
-**jigarcia-2/jigarcia-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Buenos Aires, Argentina** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
 
-Here are some ideas to get you started:
+I am a physician turned Medical Data Scientist with a strong focus on women’s health.
+
+My work focuses on translating health data into meaningful insights, grounded in more
+than 10 years of experience in real clinical and hospital settings, where data directly
+impacts decisions, outcomes, and patients’ lives.
+
+I invite you to explore my projects, which reflect my way of interpreting numbers
+within their proper healthcare and clinical context.
+
+## Current Projects
+
+### Tools
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
