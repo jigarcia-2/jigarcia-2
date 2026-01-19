@@ -11,16 +11,5 @@ impacts decisions, outcomes, and patients’ lives.
 I invite you to explore my projects, which reflect my way of interpreting numbers
 within their proper healthcare and clinical context.
 
-## Selected Projects
 
-### 
-
-
-
-
-
-
-
-
-- ⚡ Fun fact: 
 
