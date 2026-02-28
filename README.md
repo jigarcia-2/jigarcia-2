@@ -24,6 +24,6 @@ R | Python | SQL | PostgreSQL | Seurat | scRNA-seq | Machine Learning | Git | WS
 
 
 🔗 LinkedIn: https://linkedin.com/in/jimena-taciana-garcia
-🔗 Email: jigarcia@itba.edu.ar
+🔗 Email: jigarcia@itba.edu.ar 
 🔗 Portfolio: jigarcia-2.github.io
 
