@@ -1,4 +1,4 @@
-##  Hi, I'm Jimena 👋
+# Jimena Taciana Garcia, MD
 ### Medical Data Scientist | Reproductive Medicine | Bioinformatics | Clinical Analytics
 
 📍 **Buenos Aires, Argentina**   
