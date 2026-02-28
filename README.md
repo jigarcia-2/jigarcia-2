@@ -12,14 +12,14 @@ impacts decisions, outcomes, and patients’ lives.
 I invite you to explore my projects, which reflect my way of interpreting numbers
 within their proper healthcare and clinical context.
 
-## 🔬 Selected Projects
+### Selected Projects
 - **Endometrial Organoid scRNA-seq Pipeline**  
   118,672 single cells × 27,254 genes | Seurat | Reproducible workflow  
 - **Breast Cancer SVM Model**  
   Supervised ML | Clinically relevant metrics | Decision support focus  
 
 
-## 🛠 Technical Stack
+### 🛠 Technical Stack
 R | Python | SQL | PostgreSQL | Seurat | scRNA-seq | Machine Learning | Git | WSL
 
 
