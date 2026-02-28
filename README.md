@@ -1,6 +1,7 @@
 ##  Hi, I'm Jimena 👋
+### Medical Data Scientist | Reproductive Medicine | Bioinformatics | Clinical Analytics
 
-📍 **Buenos Aires, Argentina** |  
+📍 **Buenos Aires, Argentina**   
 
 I am a physician turned Medical Data Scientist with a strong focus on women’s health.
 
@@ -12,4 +13,6 @@ I invite you to explore my projects, which reflect my way of interpreting number
 within their proper healthcare and clinical context.
 
 
+🔗 LinkedIn: https://linkedin.com/in/jimena-taciana-garcia
+🔗 Email: jigarcia@itba.edu.ar
 
